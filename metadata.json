@@ -1,0 +1,5 @@
+{
+  "name": "VouchWork SA",
+  "description": "An odd job referral platform for South Africans where users can only apply to a job if two people can vouch for their skills. Features AI-powered application tips.",
+  "requestFramePermissions": []
+}
